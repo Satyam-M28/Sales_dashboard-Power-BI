@@ -34,7 +34,7 @@ The dashboard provides a clear overview of sales performance and helps analyze b
 |------|-------------|
 | `SALES_Dashboard.pbix` | Power BI dashboard file |
 | `SuperStore_Sales_Dataset (1).csv` | Dataset used for analysis |
-| `Screenshot 2026-09-10 194037.png` | Dashboard preview |
+| `Dashboard_preview.png` | Dashboard preview |
 
 ## 🎯 Objective
 
