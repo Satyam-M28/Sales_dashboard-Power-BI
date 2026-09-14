@@ -26,7 +26,7 @@ The dashboard provides a clear overview of sales performance and helps analyze b
 
 ## 🖼️ Dashboard Preview
 
-![Sales Dashboard](Screenshot%202026-09-10%20194037.png)
+![Sales Dashboard](Dashboard_preview.png)
 
 ## 📂 Files Included
 
